@@ -16,8 +16,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  ➡️ <a href="https://rocketpay-wine.vercel.app" target="_blank">Site disponível na WEB Aqui </a>
-</p>
+  ➡️ <a href="https://rocketpay-wine.vercel.app" target="_blank">Site disponível na WEB Aqui </a> </p>
 
 <br>
 
